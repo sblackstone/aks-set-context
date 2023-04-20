@@ -1,4 +1,4 @@
-name: 'Azure Kubernetes set context'
+name: 'Forked Azure Kubernetes set context'
 description: 'Sets the kubeconfig on the machine to communicate with the Azure Kubernetes cluster.'
 # Azure/login must be run before this action
 inputs:
