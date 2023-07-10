@@ -20,7 +20,7 @@ inputs:
       default: false
       required: false
    public-fqdn:
-      description: 'Get private cluster credential with server address to be public fqdn.  Vaues: true or false'
+      description: 'Get private cluster credential with server address to be public fqdn.  Values: true or false'
       default: false
       required: false
 branding:
